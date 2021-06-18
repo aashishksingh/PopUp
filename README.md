@@ -1,3 +1,4 @@
+# PopUp UI Project
 Frontend Dev code for a PopUp design concept(HTML + CSS)
 
 The repo includes the code artifacts for a simple layout for a PopUp UI.
